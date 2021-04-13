@@ -24,7 +24,7 @@
 	box-sizing:border-box;
 
 	border-radius: 25px;
-  	border: 2px solid rgb(56,82,164);
+  border: 2px solid rgb(56,82,164);
  	padding: 20px;
 
 }
@@ -75,13 +75,15 @@ nav ul{
 }
 header {
   grid-area: header;
-  background-color: rgb(230, 154, 48);
+  background-color: rgb(110, 143, 139);
 
 
 }
 
 header h1{
   color: white;
+  text-align: center;
+  font-family: sans-serif;
 }
 
 main{

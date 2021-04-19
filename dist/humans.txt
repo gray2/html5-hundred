@@ -4,10 +4,11 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    Gray Assi - main developer
 
 # THANKS
 
-    <name>
+    David Schaal
 
 # TECHNOLOGY COLOPHON
 

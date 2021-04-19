@@ -1,4 +1,4 @@
-# [HTML5 Boilerplate](https://html5boilerplate.com/)
+# [Custom HTML5 Boilerplate](https://html5boilerplate.com/)
 
 [![Build status](https://github.com/h5bp/html5-boilerplate/workflows/Build%20status/badge.svg)](https://github.com/h5bp/html5-boilerplate/actions?query=workflow%3A%22Build+status%22+branch%3Amaster)
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/h5bp/html5-boilerplate/blob/master/LICENSE.txt)
@@ -83,6 +83,8 @@ Choose one of the following options:
   errors in older browsers.
 * "Delete-key friendly." Easy to strip out parts you don't need.
 * Extensive documentation.
+* Basic css with a flexbox layout
+* Optional parallax formatting
 
 ## Browser support
 
@@ -116,6 +118,13 @@ involved, please take a moment to review the [guidelines](.github/CONTRIBUTING.m
 * [Bug reports](.github/CONTRIBUTING.md#bugs)
 * [Feature requests](.github/CONTRIBUTING.md#features)
 * [Pull requests](.github/CONTRIBUTING.md#pull-requests)
+
+## Custom Additions
+* Parallax layout
+* SCSS + CSS formatting
+* Custom icon + favicon
+* Basic flexbox layout
+* Simple color scheme that is easily editable
 
 ## License
 
